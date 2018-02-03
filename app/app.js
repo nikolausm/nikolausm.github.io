@@ -3,6 +3,9 @@
  * @todo #1 Move to typescript
  */
 
+/*
+@todo #1:30min Just Testing 0pdd's Bot 
+*/
 // Declare app level module which depends on views, and components
 angular.module('myApp', [
   'ngRoute',
